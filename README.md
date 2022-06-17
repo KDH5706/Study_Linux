@@ -7,3 +7,5 @@ Linux OS 학습 리포지토리
   - Window에서 가상 OS 설치
 - Ubuntu 설치
 - Linux 기본 명령어 학습
+
+## 2일차
