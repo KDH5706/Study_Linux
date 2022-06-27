@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 	struct sockaddr_in clnt_addr;
 	socklen_t clnt_addr_size;
 
-	char message[] = "Hellow World!";
+	char message[] = "Hello World!";
 
 	if(argc != 2)
 	{
